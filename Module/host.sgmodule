@@ -1,0 +1,11 @@
+#!name=Hosts
+#!desc=指定DNS解析
+
+[Host]
+*.qq.com = server:119.29.29.29
+*.tencent.com = server:119.29.29.29
+*.weixin.com = server:119.29.29.29
+*.wechat.com = server:119.29.29.29
+*.bilibili.com = server:119.29.29.29
+*.360buyimg.com = server:119.29.29.29
+*.iqiyi.com = server:119.29.29.29

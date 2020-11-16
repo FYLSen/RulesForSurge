@@ -1,0 +1,9 @@
+#!name=JD_Price
+#!desc=京东历史价格
+#!system=ios
+
+[MITM]
+hostname = %APPEND% api.m.jd.com
+
+[Script]
+jd_price = type=http-response,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),requires-body=1,script-path=https://cdn.jsdelivr.net/gh/yichahucha/surge/jd_price.min.js

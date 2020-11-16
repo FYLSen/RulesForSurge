@@ -1,0 +1,12 @@
+#!name=Check In Cookies
+#!desc=获取签到cookies
+#!system=ios
+
+[MITM]
+hostname = %APPEND% api.m.jd.com, icbc1.wlphp.com:8444, mobwsa.ximalaya.com, daojia.jd.com
+
+[Script]
+JD_DailyBonus = type=http-request,pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean,script-path=https://cdn.jsdelivr.net/gh/NobyDa/Script/JD-DailyBonus/JD_DailyBonus.min.js
+icbc = type=http-request,pattern=^https:\/\/icbc1\.wlphp\.com:8444\/js\/api\/index\/signIn,requires-body=1,max-size=0,script-update-interval=0,script-path=https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Scripts/ICBC/icbc_cookies_sign.min.js
+ximalaya = type=http-request,pattern=^https?:\/\/.*\/mobile\-user\/homePage\/.*,script-path=https://cdn.jsdelivr.net/gh/chavyleung/scripts/ximalaya/ximalaya.cookie.min.js
+jddj = type=http-request,pattern=^https:\/\/daojia.jd.com/client(.*?)functionId=signin(.*?)userSigninNew,script-path=https://cdn.jsdelivr.net/gh/chavyleung/scripts/jddj/jddj.cookie.min.js
