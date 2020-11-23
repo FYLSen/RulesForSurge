@@ -15,6 +15,8 @@ https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/JD_Task.sgmodule
 
 https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/JD_Task_Promotion.sgmodule
 
+https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/JD_Exchange.sgmodule
+
 https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/Daily.sgmodule
 
 ```

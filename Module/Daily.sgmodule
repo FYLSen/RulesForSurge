@@ -3,8 +3,7 @@
 #!system=ios
 
 [Script]
-
-JD_DailyBonus = type=cron,cronexp="13 0,3,19 0,3 * * *",wake-system=1,control-api=1,timeout=30,script-update-interval=0,script-path=https://cdn.jsdelivr.net/gh/NobyDa/Script/JD-DailyBonus/JD_DailyBonus.min.js
+JD_DailyBonus = type=cron,cronexp="3 0,3,19 0 * * *",wake-system=1,control-api=1,timeout=30,script-update-interval=0,script-path=https://cdn.jsdelivr.net/gh/NobyDa/Script/JD-DailyBonus/JD_DailyBonus.min.js
 ximalaya = type=cron,cronexp="10 0 * * *",script-path=https://cdn.jsdelivr.net/gh/chavyleung/scripts/ximalaya/ximalaya.min.js
 icbc = type=cron,cronexp="38 0 * * *",script-update-interval=0,script-path=https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Scripts/ICBC/icbc_sign.min.js
 jddj = type=cron,cronexp="18 6 * * *",script-update-interval=0,script-path=https://cdn.jsdelivr.net/gh/chavyleung/scripts/jddj/jddj.min.js

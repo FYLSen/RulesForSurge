@@ -137,6 +137,7 @@ DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,economist.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
@@ -148,6 +149,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
