@@ -24,3 +24,8 @@
 点点券 = type=cron,cronexp="8 0,20 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_necklace.min.js
 东东工厂 = type=cron,cronexp="14 * * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_jdfactory.min.js
 十元街 = type=cron,cronexp="11 7,8 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_syj.min.js
+京喜故事 = type=cron,cronexp="36 6 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_jxstory.min.js
+秒杀红包雨 = type=cron,cronexp="31 12 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_ms_redrain.min.js
+任务京豆 = type=cron,cronexp="31 7 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_bean_home.min.js
+京东汽车 = type=cron,cronexp="37 7 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_car.min.js
+京东快递 = type=cron,cronexp="31 18 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_kd.min.js
