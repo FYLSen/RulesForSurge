@@ -2,5 +2,4 @@
 #!desc=京东促销活动任务
 
 [Script]
-# 热8超级盲盒 = type=cron,cronexp="1 0,1-23/3 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_mohe.min.js
 金榜年终奖 = type=cron,cronexp="26 12 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_split.min.js
