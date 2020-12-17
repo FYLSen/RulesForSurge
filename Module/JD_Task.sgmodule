@@ -5,9 +5,7 @@
 京东摇钱树 = type=cron,cronexp="40 */3 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_moneyTree.min.js 
 京东抽奖机 = type=cron,cronexp="11 6-20/7 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_lotteryMachine.min.js 
 进店领豆脚本 = type=cron,cronexp="1 0 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_shop.min.js 
-宠汪汪积分兑换京豆 = type=cron,cronexp="0 0-16/8 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_joy_reward.min.js 
 宠汪汪 = type=cron,cronexp="12 */2 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_joy.min.js 
-京小超兑换奖品 = type=cron,cronexp="0 0 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_blueCoin.min.js 
 全民开红包脚本 = type=cron,cronexp="1 1,4 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_redPacket.min.js 
 宠汪汪偷好友狗粮与积分 = type=cron,cronexp="0 0,6 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_joy_steal.min.js 
 东东萌宠 = type=cron,cronexp="5 6-18/6 * * *",wake-system=1,timeout=20,script-path=https://cdn.jsdelivr.net/gh/Rhysn/jd_scripts/jd_pet.min.js 
