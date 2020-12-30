@@ -1,0 +1,112 @@
+{
+    "code": 200,
+    "msg": "Read Code Success",
+    "author": "Rhysn",
+    "date": "2020-12-30",
+    "data": [
+        {
+            "appName": "闪购盲盒",
+            "appId": "1EFRRxA",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "P04z54XCjVWmIaW5m9cZ2f-3n0YlHdruJTsA9A",
+                "P04z54XCjVWmIaW5mlRVjyhg31PkxxRQQA"
+            ]
+        },
+        {
+            "appName": "疯狂砸金蛋",
+            "appId": "1EFRQwA",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "P04z54XCjVXnIaW5m9cZ2f-3n0YlMvv1qNf7Uo",
+                "P04z54XCjVXnIaW5mlRVjyhg31PkzULYoQ"
+            ]
+        },
+        {
+            "appName": "健康服务",
+            "appId": "1EFRTwg",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "P04z54XCjVUnoaW5m9cZ2f-3n0YlI4IkViXpeg",
+                "P04z54XCjVUnoaW5mlRVjyhg31Pk5yQ45A"
+            ]
+        },
+        {
+            "appName": "新店福利",
+            "appId": "1EFRTyg",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "P04z54XCjVUloaW5m9cZ2f-3n0YlK2hgTLjcVQ",
+                "P04z54XCjVUloaW5mlRVjyhg31PkwB1JXc"
+            ]
+        },
+        {
+            "appName": "砸蛋抽好礼",
+            "appId": "1EFRTxQ",
+            "homeData": "ts",
+            "collectScore": "harmony",
+            "lotteryResult": "ts",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0184qQtHEdH9FHRJBn3kQCjVUmYaW5kRrbA",
+                "P04z54XCjVUmYaW5m9cZ2f-3n0YlCj8l1OiUl8"
+            ]
+        },
+        {
+            "appName": "东东福利屋",
+            "appId": "1EFRSxA",
+            "homeData": "wfh",
+            "collectScore": "wfh",
+            "lotteryResult": "wfh",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVmIaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVmIaW5kRrbA"
+            ]
+        },
+        {
+            "appName": "京东焕新家",
+            "appId": "1EFRSyw",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA"
+            ]
+        },
+        {
+            "appName": "京豆大转盘",
+            "appId": "1EFRSyg",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "6",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVloaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVloaW5kRrbA"
+            ]
+        }
+    ]
+}
