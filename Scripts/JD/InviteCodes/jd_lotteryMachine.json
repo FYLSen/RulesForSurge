@@ -16,7 +16,11 @@
             "shareTaskType": 14,
             "sharecodes": [
                 "P04z54XCjVWmIaW5m9cZ2f-3n0YlHdruJTsA9A",
-                "P04z54XCjVWmIaW5mlRVjyhg31PkxxRQQA"
+                "P04z54XCjVWmIaW5mlRVjyhg31PkxxRQQA",
+                "T0225KkcRxga9AbWIhzykfJYcgCjVWmIaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVWmIaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVWmIaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVWmIaW5kRrbA"
             ]
         },
         {
@@ -24,7 +28,7 @@
             "appId": "1EFRQwA",
             "appId2": "",
             "methon": "post",
-            "homeData": "healthyDay",
+            "homeData": "interact_template",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
             "timeout": "6",
@@ -46,7 +50,11 @@
             "shareTaskType": 14,
             "sharecodes": [
                 "P04z54XCjVUnoaW5m9cZ2f-3n0YlI4IkViXpeg",
-                "P04z54XCjVUnoaW5mlRVjyhg31Pk5yQ45A"
+                "P04z54XCjVUnoaW5mlRVjyhg31Pk5yQ45A",
+                "T0225KkcRxga9AbWIhzykfJYcgCjVUnoaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVUnoaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVUnoaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVUnoaW5kRrbA"
             ]
         },
         {
@@ -61,7 +69,11 @@
             "shareTaskType": 14,
             "sharecodes": [
                 "P04z54XCjVUloaW5m9cZ2f-3n0YlK2hgTLjcVQ",
-                "P04z54XCjVUloaW5mlRVjyhg31PkwB1JXc"
+                "P04z54XCjVUloaW5mlRVjyhg31PkwB1JXc",
+                "T0225KkcRxga9AbWIhzykfJYcgCjVUloaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVUloaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVUloaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVUloaW5kRrbA"
             ]
         },
         {
@@ -91,7 +103,9 @@
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVVmIaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVVmIaW5kRrbA"
+                "T0184qQtHEdH9FHRJBn3kQCjVVmIaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVmIaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVmIaW5kRrbA"
             ]
         },
         {
@@ -106,7 +120,9 @@
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA"
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
             ]
         }
     ]
