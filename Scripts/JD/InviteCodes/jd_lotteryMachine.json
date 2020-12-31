@@ -22,7 +22,7 @@
         {
             "appName": "疯狂砸金蛋",
             "appId": "1EFRQwA",
-            "appId2": "golden-egg",
+            "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -107,21 +107,6 @@
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
                 "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA"
-            ]
-        },
-        {
-            "appName": "京豆大转盘",
-            "appId": "1EFRSyg",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": "6",
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVVloaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVVloaW5kRrbA"
             ]
         }
     ]
