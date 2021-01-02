@@ -46,7 +46,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "6",
+            "timeout": "15",
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVUnoaW5kRrbA",
