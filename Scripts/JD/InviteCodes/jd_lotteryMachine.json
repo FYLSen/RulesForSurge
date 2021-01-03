@@ -73,21 +73,6 @@
             ]
         },
         {
-            "appName": "砸蛋抽好礼",
-            "appId": "1EFRTxQ",
-            "homeData": "ts",
-            "appId2": "golden-egg",
-            "methon": "get",
-            "collectScore": "harmony",
-            "lotteryResult": "ts",
-            "timeout": "6",
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0184qQtHEdH9FHRJBn3kQCjVUmYaW5kRrbA",
-                "P04z54XCjVUmYaW5m9cZ2f-3n0YlCj8l1OiUl8"
-            ]
-        },
-        {
             "appName": "东东福利屋",
             "appId": "1EFRSxA",
             "appId2": "",
