@@ -105,6 +105,40 @@
                 "T0225KkcRh8epwXVdhnylaZcJQCjVSmIaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVSmIaW5kRrbA"
             ]
+        },
+        {
+            "appName": "福音大转盘",
+            "appId": "1EFRVyg",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "16",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVSloaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVSloaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVSmIaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVSmIaW5kRrbA"
+            ]
+        },
+        {
+            "appName": "新年上上签",
+            "appId": "1EFRUwg",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "16",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVTnoaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVTnoaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVSmIaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVSmIaW5kRrbA"
+            ]
         }
     ]
 }
