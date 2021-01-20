@@ -156,6 +156,23 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVSmoaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVSmoaW5kRrbA"
             ]
+        },
+        {
+            "appName": "惊喜拆好礼",
+            "appId": "1EFRVxw",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "16",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVSm4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVSm4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVSm4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVSm4aW5kRrbA"
+            ]
         }
     ]
 }
