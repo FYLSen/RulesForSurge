@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-01-20",
+    "date": "2021-01-22",
     "data": [
         {
             "appName": "闪购盲盒",
@@ -172,6 +172,23 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVSm4aW5kRrbA",
                 "T0184qQtHEdH9FHRJBn3kQCjVSm4aW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVSm4aW5kRrbA"
+            ]
+        },
+        {
+            "appName": "新年狂欢日",
+            "appId": "1EFRUxw",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": "16",
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVTm4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVTm4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVTm4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVTm4aW5kRrbA"
             ]
         }
     ]
