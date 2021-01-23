@@ -12,7 +12,7 @@
             "homeData": "interact_template",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "6",
+            "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVWmIaW5kRrbA",
@@ -29,7 +29,7 @@
             "homeData": "interact_template",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "6",
+            "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0184qQtHEdH9FHRJBn3kQCjVXnIaW5kRrbA",
@@ -46,7 +46,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "6",
+            "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVUloaW5kRrbA",
@@ -63,7 +63,7 @@
             "homeData": "wfh",
             "collectScore": "wfh",
             "lotteryResult": "wfh",
-            "timeout": "6",
+            "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVVmIaW5kRrbA",
@@ -80,7 +80,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "6",
+            "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
@@ -97,7 +97,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "20",
+            "timeout": 20,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVSmIaW5kRrbA",
@@ -114,7 +114,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "16",
+            "timeout": 16,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVSloaW5kRrbA",
@@ -131,7 +131,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "16",
+            "timeout": 16,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVTnoaW5kRrbA",
@@ -148,7 +148,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "16",
+            "timeout": 16,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVSmoaW5kRrbA",
@@ -165,7 +165,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "16",
+            "timeout": 16,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVSm4aW5kRrbA",
@@ -182,7 +182,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "16",
+            "timeout": 16,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVTm4aW5kRrbA",
@@ -199,7 +199,7 @@
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
-            "timeout": "16",
+            "timeout": 32,
             "shareTaskType": 14,
             "sharecodes": [
                 "T0225KkcRxga9AbWIhzykfJYcgCjVTmoaW5kRrbA",
