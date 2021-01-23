@@ -207,6 +207,40 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVTmoaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVTmoaW5kRrbA"
             ]
+        },
+        {
+            "appName": "未知活动1",
+            "appId": "1EFRUww",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 32,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVTmoaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVTmoaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVTmoaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVTmoaW5kRrbA"
+            ]
+        },
+        {
+            "appName": "未知活动2",
+            "appId": "1EFRUxA",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 32,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVTmoaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVTmoaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVTmoaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVTmoaW5kRrbA"
+            ]
         }
     ]
 }
