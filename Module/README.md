@@ -5,19 +5,21 @@
 
 ```properties
 
-https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/checkin_cookies.sgmodule
+https://allgreat.xyz/Module/checkin_cookies.sgmodule
 
-https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/host.sgmodule
+https://allgreat.xyz/Module/host.sgmodule
 
-https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/JD_Price.sgmodule
+https://allgreat.xyz/Module/JD_Price.sgmodule
 
-https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/JD_Task.sgmodule
+https://allgreat.xyz/Module/JD_Task.sgmodule
 
-https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/JD_Task_Promotion.sgmodule
+https://allgreat.xyz/Module/JD_Task_Promotion.sgmodule
 
-https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/JD_Exchange.sgmodule
+https://allgreat.xyz/Module/JD_Exchange.sgmodule
 
-https://cdn.jsdelivr.net/gh/Rhysn/RulesForSurge@main/Module/Daily.sgmodule
+https://allgreat.xyz/Module/Daily.sgmodule
+
+https://allgreat.xyz/Module/TheMockRules.sgmodule
 
 ```
 
