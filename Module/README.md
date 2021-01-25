@@ -19,7 +19,7 @@ https://allgreat.xyz/Module/JD_Exchange.sgmodule
 
 https://allgreat.xyz/Module/Daily.sgmodule
 
-https://allgreat.xyz/Module/TheMockRules.sgmodule
+https://allgreat.xyz/Module/AdblockByMock.sgmodule
 
 ```
 
