@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-01-26",
+    "date": "2021-01-29",
     "data": [
         {
             "appName": "闪购盲盒",
@@ -226,7 +226,7 @@
             ]
         },
         {
-            "appName": "戴尔年货节狂欢钜惠活动 ",
+            "appName": "戴尔年货节狂欢钜惠活动",
             "appId": "1EFRUyg",
             "appId2": "",
             "methon": "post",
@@ -240,6 +240,23 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVTloaW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVTloaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVTloaW5kRrbA"
+            ]
+        },
+        {
+            "appName": "星意送好礼",
+            "appId": "1EFRVyw",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 15,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVSl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVSl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVSl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVSl4aW5kRrbA"
             ]
         }
     ]
