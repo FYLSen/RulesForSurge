@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-01-31",
+    "date": "2021-02-01",
     "data": [
         {
             "appName": "闪购盲盒",
@@ -257,6 +257,23 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVTnYaW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVTnYaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVTnYaW5kRrbA"
+            ]
+        },
+        {
+            "appName": "桃花上上签",
+            "appId": "1EFRVxQ",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 15,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVSmYaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVSmYaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVSmYaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVSmYaW5kRrbA"
             ]
         }
     ]
