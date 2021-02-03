@@ -9,7 +9,6 @@
 京东汽车 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_car.js
 签到领现金 = type=cron,cronexp="2 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_cash.js
 摇京豆 = type=cron,cronexp="5 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_club_lottery.js
-源头好物红包 = type=cron,cronexp="0 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_coupon.js
 crazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_crazy_joy.js
 京喜工厂 = type=cron,cronexp="10 * * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_dreamFactory.js
 京东手机年终奖 = type=cron,cronexp="15 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_festival.js
