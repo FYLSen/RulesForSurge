@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-02-04",
+    "date": "2021-02-06",
     "data": [
         {
             "appName": "闪购盲盒",
@@ -53,23 +53,6 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVUloaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVUloaW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVUloaW5kRrbA"
-            ]
-        },
-        {
-            "appName": "新年抽好礼",
-            "appId": "1EFRVxA",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 20,
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVSmIaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVSmIaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVSmIaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVSmIaW5kRrbA"
             ]
         },
         {
@@ -209,23 +192,6 @@
             ]
         },
         {
-            "appName": "茶香盒你",
-            "appId": "1EFRUwQ",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 15,
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVTnYaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVTnYaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVTnYaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVTnYaW5kRrbA"
-            ]
-        },
-        {
             "appName": "桃花上上签",
             "appId": "1EFRVxQ",
             "appId2": "",
@@ -257,23 +223,6 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
-            ]
-        },
-        {
-            "appName": "礼盒大放送",
-            "appId": "1EFRXwQ",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 6,
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVQnYaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVQnYaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVQnYaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVQnYaW5kRrbA"
             ]
         },
         {
