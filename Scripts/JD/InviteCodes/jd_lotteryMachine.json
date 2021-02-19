@@ -190,6 +190,108 @@
                 "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
             ]
+        },
+        {
+            "appName": "活动1",
+            "appId": "1EFRVxA",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
+            ]
+        },
+        {
+            "appName": "活动2",
+            "appId": "1EFRUyw",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
+            ]
+        },
+        {
+            "appName": "活动3",
+            "appId": "1EFRUwQ",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
+            ]
+        },
+        {
+            "appName": "活动4",
+            "appId": "1EFRVxQ",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
+            ]
+        },
+        {
+            "appName": "活动5",
+            "appId": "1EFRXwQ",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
+            ]
+        },
+        {
+            "appName": "活动6",
+            "appId": "1EFRXxQ",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVVl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVVl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVVl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVVl4aW5kRrbA"
+            ]
         }
     ]
 }
