@@ -46,7 +46,7 @@ force-http-engine-hosts = %APPEND% wx.qlogo.cn
 ^https?:\/\/.+\.googleapis\.com\/youtubei\/v1\/log_event data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\.googleapis\.com\/youtubei\/v1\/issuetoken data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 // ximalaya
-^http:\/\/adbehavior\.ximalaya\.com\/api\/v\d+\/adRealTime data="https://rules.allgreat.xyz/Mock/blank/blank.txt"
+^https?:\/\/adbehavior\.ximalaya\.com\/api\/v\d+\/adRealTime data="https://rules.allgreat.xyz/Mock/blank/blank.txt"
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/sf\d+-fe-tos.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/package.json data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/dm.toutiao.com\/get_domains\/v\d+\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
@@ -56,4 +56,4 @@ force-http-engine-hosts = %APPEND% wx.qlogo.cn
 YouTube ADB(By Choler) = type=http-request,pattern=^https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A),script-path=https://choler.github.io/Surge/Script/YouTube.js
 
 [MITM]
-hostname = %APPEND% gw.alicdn.com, *acs.m.taobao.com, *.weixin.qq.com, res.xiaojukeji.com, *.didistatic.com, *.googlevideo.com,*.youtube.com,www.googleapis.com, *.pangolin-sdk-toutiao, *.pglstatp-toutiao.com, dm.toutiao.com
+hostname = %APPEND% gw.alicdn.com, *acs.m.taobao.com, *.weixin.qq.com, res.xiaojukeji.com, *.didistatic.com, *.googlevideo.com,*.youtube.com,www.googleapis.com, *.pangolin-sdk-toutiao, *.pglstatp-toutiao.com, dm.toutiao.com, adbehavior.ximalaya.com
