@@ -56,23 +56,6 @@
             ]
         },
         {
-            "appName": "好礼来敲门",
-            "appId": "1EFRUxg",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 32,
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVTmoaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVTmoaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVTmoaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVTmoaW5kRrbA"
-            ]
-        },
-        {
             "appName": "京东焕新家",
             "appId": "1EFRSyw",
             "appId2": "",
