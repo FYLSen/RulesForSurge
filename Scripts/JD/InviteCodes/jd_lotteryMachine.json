@@ -2,8 +2,25 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-02-21",
+    "date": "2021-02-24",
     "data": [
+        {
+            "appName": "闪购盲盒N",
+            "appId": "1EFRXxg",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "interact_template",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVQmoaT5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVQmoaT5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVQmoaT5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVQmoaT5kRrbA"
+            ]
+        },
         {
             "appName": "闪购盲盒",
             "appId": "1EFRRxA",
