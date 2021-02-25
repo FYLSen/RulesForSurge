@@ -1,6 +1,8 @@
-/*Cloudflare Workers更新jsdelivr缓存*/
-const path = "https://raw.githubusercontent.com/Rhysn/RulesForSurge/main/jsdelivr/jsdelivr_purge"
-
+/*
+根据Docker部署方式中的crontab.list生成bash shell
+部署在Cloudflare Workers中
+*/
+const path = "https://raw.githubusercontent.com/Rhysn/jd-scripts-docker/master/crontab.list"
 async function gatherResponse(response) {
     const { headers } = response
     const contentType = headers.get("content-type") || ""
@@ -18,7 +20,7 @@ async function gatherResponse(response) {
     }
 }
 
-async function purge() {
+async function theShell() {
     const init = {
         headers: {
             "content-type": "text/html;charset=UTF-8",
@@ -26,19 +28,24 @@ async function purge() {
     }
     const response = await fetch(path, init)
     const results = await gatherResponse(response)
-    var url_arr = results.toString().split(/\n/)
+    var thecontainlist = results.toString().split(/\n/)
 
-    for (let item of url_arr) {
-        await fetch(item)
+    var re_message = '#!/bin/bash\n'
+
+    const matchShellPatt = new RegExp('bash.+');
+
+    for (let item of thecontainlist) {
+        if(item.startsWith("#") || item.indexOf("挂机") > -1 || item === "") continue; 
+
+        var runShell = item.match(matchShellPatt);
+
+        re_message = re_message + '\n' + runShell;
     }
+    re_message = re_message + '\n';
 
-    return new Response('0K', { status: 200 })
+    return new Response(re_message, { status: 200 })
 }
 
-addEventListener('scheduled', event => {
-    event.waitUntil(purge())
-})
-
 addEventListener("fetch", event => {
-    return event.respondWith(purge())
+    return event.respondWith(theShell())
 })

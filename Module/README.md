@@ -5,21 +5,19 @@
 
 ```properties
 
-https://allgreat.xyz/Module/checkin_cookies.sgmodule
+https://rules.allgreat.xyz/Module/checkin_cookies.sgmodule
 
-https://allgreat.xyz/Module/host.sgmodule
+https://rules.allgreat.xyz/Module/host.sgmodule
 
-https://allgreat.xyz/Module/JD_Price.sgmodule
+https://rules.allgreat.xyz/Module/JD_Price.sgmodule
 
-https://allgreat.xyz/Module/JD_Task.sgmodule
+https://rules.allgreat.xyz/jd_task
 
-https://allgreat.xyz/Module/JD_Task_Promotion.sgmodule
+https://rules.allgreat.xyz/Module/JD_Exchange.sgmodule
 
-https://allgreat.xyz/Module/JD_Exchange.sgmodule
+https://rules.allgreat.xyz/Module/Daily.sgmodule
 
-https://allgreat.xyz/Module/Daily.sgmodule
-
-https://allgreat.xyz/Module/AdblockByMock.sgmodule
+https://rules.allgreat.xyz/Module/AdblockByMock.sgmodule
 
 ```
 
