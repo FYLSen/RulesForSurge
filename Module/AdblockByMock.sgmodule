@@ -51,6 +51,7 @@ force-http-engine-hosts = %APPEND% wx.qlogo.cn
 ^https?:\/\/sf\d+-fe-tos.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/package.json data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/dm.toutiao.com\/get_domains\/v\d+\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/mi.gdt.qq.com\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
+^https?:\/\/adse\.ximalaya\.com\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 
 [Script]
 // hostname = %APPEND% *.googlevideo.com
