@@ -2,12 +2,7 @@
 #!desc=Adblock By Mock
 #!system=ios
 
-[General]
-force-http-engine-hosts = %APPEND% wx.qlogo.cn
-
 [Map Local]
-// HLDDZ
-^http:\/\/wx\.qlogo\.cn\/mmhead\/ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 // Alibaba
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.((trip\.activity|film\.mtopadvertiseapi)\.querytmsresources|(taobao\.idle\.home|aliyun\.mobile)\.welcome(page)?|.*?\.ads?\.) data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/gw\.alicdn\.com\/(t(f|p)s\/.+\d{3,4}-\d{4}|mt) data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
