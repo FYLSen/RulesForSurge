@@ -156,6 +156,7 @@ IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 # Analytics 数据收集
 # > 95516
+DOMAIN,ads.95516.com
 DOMAIN,analytics.95516.com
 DOMAIN,antifraud.95516.com
 # > 189
@@ -548,6 +549,7 @@ DOMAIN,adbehavior.ximalaya.com
 DOMAIN-SUFFIX,audiossl.xmcdn.com
 URL-REGEX,^https?:\/\/mobile\.ximalaya\.com\/football-portal\/diff2\/batch.+$
 URL-REGEX,^http:\/\/.+\/(soundPatch|ting).*\/ts$
+URL-REGEX,^https?:\/\/124\.236\.34\.172\/firework-callback\/v\d\/ad.*$
 # > 雪球
 URL-REGEX,^https?:\/\/182\.92\.251\.113\/ads.*$
 URL-REGEX,^https?:\/\/(101\.201\.175\.228|182\.92\.251\.113)\/promotion\/(display_ad|display_cache|display_ad_batch|search_ad).*$
