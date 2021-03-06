@@ -440,7 +440,6 @@ DOMAIN-SUFFIX,blackhole-m.m.jd.com
 URL-REGEX,^https?:\/\/bdsp-x\.jd\.com\/adx.*$
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo.*$
 URL-REGEX,^https?://img12.360buyimg.com.+width=\d{4}&height=\d{4}.*$
-URL-REGEX,^https?:\/\/api\.m\.jd\.com\/.*Adverts.*$
 # > 京东金融
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture.*$
 # > 简书
