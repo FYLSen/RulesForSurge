@@ -41,12 +41,14 @@
 ^https?:\/\/.+\.googleapis\.com\/youtubei\/v1\/log_event data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\.googleapis\.com\/youtubei\/v1\/issuetoken data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 // ximalaya
+^https?:\/\/mobile\.ximalaya\.com\/firework-portal\/v\d\/sync\?appId=.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/adbehavior\.ximalaya\.com\/api\/v\d+\/adRealTime data="https://rules.allgreat.xyz/Mock/blank/blank.txt"
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/sf\d+-fe-tos.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/package.json data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/dm.toutiao.com\/get_domains\/v\d+\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/mi.gdt.qq.com\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/adse\.ximalaya\.com\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
+^http:\/\/\d+\.\d+\.\d+\.\d+\/ting\/feed\/ts-\d+\?appid=\d+.*$ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 
 [Script]
 // hostname = %APPEND% *.googlevideo.com
