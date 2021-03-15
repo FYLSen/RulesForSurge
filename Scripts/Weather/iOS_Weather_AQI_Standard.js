@@ -24,8 +24,7 @@ const AirQualityLevel = {
 	UNHEALTHY_FOR_SENSITIVE: 3,
 	UNHEALTHY: 4,
 	VERY_UNHEALTHY: 5,
-	HAZARDOUS: 6,
-	VERY_HAZARDOUS: 7
+	HAZARDOUS: 6
 }
 
 const coordRegex = /https:\/\/weather-data\.apple\.com\/v1\/weather\/[\w-]+\/([0-9]+\.[0-9]+)\/([0-9]+\.[0-9]+)\?/
@@ -42,10 +41,8 @@ function classifyAirQualityLevel(aqiIndex) {
 		return AirQualityLevel.UNHEALTHY;
 	} else if (aqiIndex >= 201 && aqiIndex <= 300) {
 		return AirQualityLevel.VERY_UNHEALTHY;
-	} else if (aqiIndex >= 301 && aqiIndex <= 500) {
+	} else if (aqiIndex >= 301) {
 		return AirQualityLevel.HAZARDOUS;
-	} else {
-	    return AirQualityLevel.VERY_HAZARDOUS;
 	}
 }
 
@@ -94,7 +91,7 @@ function constructAirQuailityNode(aqicnData) {
 	airQualityNode.metadata.read_time = roundHours(new Date(), 'down')
 	airQualityNode.metadata.expire_time = roundHours(new Date(), 'up')
 	airQualityNode.metadata.reported_time = aqicnData.time.v
-	//airQualityNode.metadata.language = $request.headers['Accept-Language']
+	airQualityNode.metadata.language = $request.headers['Accept-Language']
 	airQualityNode.primaryPollutant = getPrimaryPollutant(aqicnData.dominentpol)
 	return airQualityNode
 }
