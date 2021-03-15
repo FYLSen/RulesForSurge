@@ -24,7 +24,8 @@ const AirQualityLevel = {
 	UNHEALTHY_FOR_SENSITIVE: 3,
 	UNHEALTHY: 4,
 	VERY_UNHEALTHY: 5,
-	HAZARDOUS: 6
+	HAZARDOUS: 6,
+	VERY_HAZARDOUS: 7
 }
 
 const coordRegex = /https:\/\/weather-data\.apple\.com\/v1\/weather\/[\w-]+\/([0-9]+\.[0-9]+)\/([0-9]+\.[0-9]+)\?/
@@ -43,6 +44,8 @@ function classifyAirQualityLevel(aqiIndex) {
 		return AirQualityLevel.VERY_UNHEALTHY;
 	} else if (aqiIndex >= 301 && aqiIndex <= 500) {
 		return AirQualityLevel.HAZARDOUS;
+	} else {
+	    return AirQualityLevel.VERY_HAZARDOUS;
 	}
 }
 
