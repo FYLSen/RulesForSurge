@@ -91,7 +91,7 @@ function constructAirQuailityNode(aqicnData) {
 	airQualityNode.metadata.read_time = roundHours(new Date(), 'down')
 	airQualityNode.metadata.expire_time = roundHours(new Date(), 'up')
 	airQualityNode.metadata.reported_time = aqicnData.time.v
-	airQualityNode.metadata.language = $request.headers['Accept-Language']
+	//airQualityNode.metadata.language = $request.headers['Accept-Language']
 	airQualityNode.primaryPollutant = getPrimaryPollutant(aqicnData.dominentpol)
 	return airQualityNode
 }
