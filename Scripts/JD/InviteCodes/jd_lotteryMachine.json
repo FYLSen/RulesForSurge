@@ -76,7 +76,7 @@
             "appName": "one",
             "appId": "1EFRSyw",
             "appId2": "",
-            "methon": "post",
+            "methon": "get",
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
@@ -100,10 +100,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVUloaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVUloaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVUloaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVUloaW5kRrbA"
+                "T0225KkcRxga9AbWIhzykfJYcgCjVRloaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVRloaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVRloaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVRloaW5kRrbA"
             ]
         },
         {
@@ -117,10 +117,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVUloaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVUloaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVUloaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVUloaW5kRrbA"
+                "T0225KkcRxga9AbWIhzykfJYcgCjVRl4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVRl4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVRl4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVRl4aW5kRrbA"
             ]
         }
     ]
