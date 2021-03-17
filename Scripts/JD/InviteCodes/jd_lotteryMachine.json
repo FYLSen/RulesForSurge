@@ -76,7 +76,7 @@
             "appName": "one",
             "appId": "1EFRSyw",
             "appId2": "",
-            "methon": "get",
+            "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
