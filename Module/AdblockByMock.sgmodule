@@ -34,7 +34,6 @@
 ^https?:\/\/.+\.youtube\.com\/get_midroll data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\.youtube\.com\/pagead data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\.youtube\.com\/ptracking data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
-^https?:\/\/.+\.googleapis\.com\/.+ad data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\.googleapis\.com\/ads data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\.googleapis\.com\/youtubei\/v1\/notification_registration data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\.googleapis\.com\/youtubei\/v1\/guide data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
