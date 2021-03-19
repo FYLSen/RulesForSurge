@@ -122,6 +122,23 @@
                 "T018v_h7Qxwd8lPTJByb1ACjVenIaW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVenIaW5kRrbA"
             ]
+        },
+        {
+            "appName": "four",
+            "appId": "1EFRZwQ",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVenYaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVenYaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVenYaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVenYaW5kRrbA"
+            ]
         }
     ]
 }
