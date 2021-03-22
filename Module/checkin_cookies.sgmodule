@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% api.m.jd.com, icbc1.wlphp.com:8444, mobwsa.ximalaya.com, daojia.jd.com, wq.jd.com, draw.jdfcloud.com, jdjoy.jd.com
+hostname = %APPEND% api.m.jd.com, icbc1.wlphp.com:8444, mobwsa.ximalaya.com, me-api.jd.com
 
 [Script]
 JD_DailyBonus = type=http-request,pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/JD_DailyBonus.js
