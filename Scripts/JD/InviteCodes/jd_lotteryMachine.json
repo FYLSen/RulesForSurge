@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-03-23",
+    "date": "2021-03-29",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -138,40 +138,6 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVenYaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVenYaW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVenYaW5kRrbA"
-            ]
-        },
-        {
-            "appName": "时尚春尚新",
-            "appId": "1EFRZxg",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 6,
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVemoaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVemoaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVemoaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVemoaW5kRrbA"
-            ]
-        },
-        {
-            "appName": "抽奖领豆",
-            "appId": "1EFRZxw",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 6,
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVem4aW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVem4aW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVem4aW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVem4aW5kRrbA"
             ]
         },
         {
