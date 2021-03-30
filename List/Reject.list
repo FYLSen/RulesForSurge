@@ -361,10 +361,12 @@ DOMAIN,cddp-track.aligames.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,tunion-api.m.taobao.com
+DOMAIN,iyes.youku.com
 IP-CIDR,112.29.211.120/32,no-resolve
 IP-CIDR,203.119.206.64/32,no-resolve
 IP-CIDR,203.119.211.219/32,no-resolve
 URL-REGEX,^https?:\/\/heic\.alicdn\.com\/.*\.jpg_(9\d{2}|\d{4}).*$
+USER-AGENT,*AliXAdSDK*
 # (B)
 # > Baidu
 DOMAIN-SUFFIX,cpro.baidu.com
@@ -377,9 +379,11 @@ DOMAIN,nsclick.baidu.com
 DOMAIN,dueros-h2.baidu.com
 # > ByteDance 字节跳动
 DOMAIN,ad.toutiao.com
+DOMAIN,dm.bytedance.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,byteimg.com
 URL-REGEX,^https?:\/\/pangolin\.snssdk\.com\/api\/ad.+$
+DOMAIN-SUFFIX,upst86.com
 # (C)
 # > CNTV
 DOMAIN,galaxy.bjcathay.com
@@ -504,7 +508,7 @@ URL-REGEX,^https?:\/\/.+\/eapi\/(ad|log)\/.*$
 # (S)
 # > Sina
 DOMAIN-SUFFIX,beacon.sina.com.cn
-DOMAIN,adimg.vue.weibo.com
+DOMAIN-SUFFIX,adimg.uve.weibo.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,sax.sina.com.cn
 DOMAIN,saxs.sina.com.cn
@@ -513,6 +517,7 @@ DOMAIN,saxn.sina.com.cn
 DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
+DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN,imp.optaim.com
 DOMAIN,v2.reachmax.cn
 DOMAIN,track.sohu.com
@@ -546,6 +551,7 @@ DOMAIN,adse.ximalaya.com
 DOMAIN,adse.wsa.ximalaya.com
 DOMAIN,adbehavior.ximalaya.com
 DOMAIN-SUFFIX,audiossl.xmcdn.com
+DOMAIN-SUFFIX,gslbali.ximalaya.com
 URL-REGEX,^https?:\/\/mobile\.ximalaya\.com\/football-portal\/diff2\/batch.+$
 URL-REGEX,^http:\/\/.+\/(soundPatch|ting).*\/ts$
 URL-REGEX,^https?:\/\/124\.236\.34\.172\/firework-callback\/v\d\/ad.*$
