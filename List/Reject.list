@@ -552,12 +552,13 @@ DOMAIN,adse.wsa.ximalaya.com
 DOMAIN,adbehavior.ximalaya.com
 DOMAIN-SUFFIX,audiossl.xmcdn.com
 DOMAIN-SUFFIX,gslbali.ximalaya.com
+DOMAIN-SUFFIX,gslbtx.ximalaya.com
 URL-REGEX,^https?:\/\/mobile\.ximalaya\.com\/football-portal\/diff2\/batch.+$
-URL-REGEX,^http:\/\/.+\/(soundPatch|ting).*\/ts$
-URL-REGEX,^https?:\/\/124\.236\.34\.172\/firework-callback\/v\d\/ad.*$
+URL-REGEX,^https?:\/\/.+\/(soundPatch|ting).*\/ts$
+URL-REGEX,^https?:\/\/\d+\.\d+\.\d+\.\d+\/firework-callback\/v\d+\/ad.*$
 # > 雪球
 URL-REGEX,^https?:\/\/182\.92\.251\.113\/ads.*$
-URL-REGEX,^https?:\/\/(101\.201\.175\.228|182\.92\.251\.113)\/promotion\/(display_ad|display_cache|display_ad_batch|search_ad).*$
+URL-REGEX,^https?:\/\/\d+\.\d+\.\d+\.\d+\/promotion\/(display_ad|display_cache|display_ad_batch|search_ad).*$
 # (Y)
 # > YouTube++
 DOMAIN,ehg-youtube.hitbox.com
