@@ -2,6 +2,6 @@
 #!desc=京东兑换
 
 [Script]
-京东汽车兑换 = type=cron,cronexp="0 0 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_car_exchange.js
+京东汽车兑换 = type=cron,cronexp="59 59 23 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_car_exchange.js
 宠汪汪积分兑换奖品 = type=cron,cronexp="0 0 */8 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_joy_reward.js
-东东超市兑换奖品 = type=cron,cronexp="0 0 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_blueCoin.js
+东东超市兑换奖品 = type=cron,cronexp="59 59 23 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/rhysn/jd_scripts/raw/master/jd_blueCoin.js
