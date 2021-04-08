@@ -451,7 +451,6 @@ DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,cootekservice.com
 DOMAIN-SUFFIX,raddus.bayescom.com
-DOMAIN-SUFFIX,app-measurement.com
 IP-CIDR,47.97.243.214/32,no-resolve
 IP-CIDR,118.31.213.162/32,no-resolve
 IP-CIDR,47.111.40.225/32,no-resolve
