@@ -7,12 +7,14 @@
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.((trip\.activity|film\.mtopadvertiseapi)\.querytmsresources|(taobao\.idle\.home|aliyun\.mobile)\.welcome(page)?|.*?\.ads?\.) data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/gw\.alicdn\.com\/(t(f|p)s\/.+\d{3,4}-\d{4}|mt) data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
+^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/[\w\/.-]+\.jpg_(9\d{2}|\d{4}) data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
+^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/.+\d{4}-\d{4}\.jpg_9\d{2} data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 // QQMusic
 ^https?:\/\/.+\/music\/common\/upload\/t_splash_info data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/.+\/tips\/fcgi-bin\/fcg_get_advert data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 // WeChat
 ^https?:\/\/.+extshort\.weixin\.qq\.com\/cgi-bin\/mmoc-bin\/ad\/ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
-^https?:\/\/mp\.weixin\.qq\.com\/mp\/.+report\? data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
+^https?:\/\/.+\.weixin\.qq\.com\/mp\/.+report\? data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/mp\.weixin\.qq\.com\/mp\/.+ad\? data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/mp\.weixin\.qq\.com\/mp\/.+monitor\? data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/mp\.weixin\.qq\.com\/bizmall\/reward\? data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
