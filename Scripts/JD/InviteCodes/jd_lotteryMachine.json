@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-04-03",
+    "date": "2021-04-12",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -104,6 +104,23 @@
                 "T0184qQtHEdH9FHRJBn3kQCjVenYaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVenYaW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVenYaW5kRrbA"
+            ]
+        },
+        {
+            "appName": "4月潮电焕新季",
+            "appId": "1EFRYwA",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjVfnIaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjVfnIaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjVfnIaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjVfnIaW5kRrbA"
             ]
         }
     ]
