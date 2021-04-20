@@ -418,6 +418,8 @@ URL-REGEX,https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement.
 # (H)
 # > 海通证券
 URL-REGEX,^https?:\/\/ops\.htsec\.com:\d*\/api\/.*AdsPictures.*$
+# > 航旅纵横
+URL-REGEX,^https?:\/\/(img\.umetrip\.com|223\.70\.194\.3)\/fs\/advert\/.*$
 # (I)
 # > iQiyi
 DOMAIN-SUFFIX,iface.iqiyi.com
