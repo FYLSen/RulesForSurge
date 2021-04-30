@@ -139,6 +139,23 @@
                 "T018v_h7Qxwd8lPTJByb1ACjVfm4aW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVfm4aW5kRrbA"
             ]
+        },
+        {
+            "appName": "新活动季",
+            "appId": "1EFVRww",
+            "appId2": "",
+            "methon": "post",
+            "homeData": "healthyDay",
+            "collectScore": "harmony",
+            "lotteryResult": "interact_template",
+            "timeout": 6,
+            "shareTaskType": 14,
+            "sharecodes": [
+                "T0225KkcRxga9AbWIhzykfJYcgCjRWn4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjRWn4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjRWn4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjRWn4aW5kRrbA"
+            ]
         }
     ]
 }
