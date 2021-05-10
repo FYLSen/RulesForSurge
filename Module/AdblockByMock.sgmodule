@@ -50,10 +50,12 @@
 ^https?:\/\/mi.gdt.qq.com\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^https?:\/\/adse\.ximalaya\.com\/.+ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 ^http:\/\/\d+\.\d+\.\d+\.\d+\/ting\/(feed|home|loading)\/ts-\d+\?appid=\d+.*$ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
+//keep
+^https?:\/\/api\.gotokeep\.com\/ads.*$ data="https://rules.allgreat.xyz/Mock/blank/blank_dict.json"
 
 [Script]
 // hostname = %APPEND% *.googlevideo.com
 YouTube ADB(By Choler) = type=http-request,pattern=^https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A),script-path=https://choler.github.io/Surge/Script/YouTube.js
 
 [MITM]
-hostname = %APPEND% gw.alicdn.com, *acs.m.taobao.com, *.weixin.qq.com, res.xiaojukeji.com, *.didistatic.com, *.googlevideo.com,*.youtube.com,www.googleapis.com, *.pangolin-sdk-toutiao, *.pglstatp-toutiao.com, dm.toutiao.com, adbehavior.ximalaya.com, mi.gdt.qq.com
+hostname = %APPEND% gw.alicdn.com, *acs.m.taobao.com, *.weixin.qq.com, res.xiaojukeji.com, *.didistatic.com, *.googlevideo.com,*.youtube.com,www.googleapis.com, *.pangolin-sdk-toutiao, *.pglstatp-toutiao.com, dm.toutiao.com, adbehavior.ximalaya.com, mi.gdt.qq.com, api.gotokeep.com
