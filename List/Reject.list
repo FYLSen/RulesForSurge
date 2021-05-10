@@ -358,6 +358,7 @@ DOMAIN-SUFFIX,unityads.unity3d.com
 # > Alibaba
 DOMAIN,amdc.m.taobao.com
 DOMAIN-SUFFIX,adashxgc.ut.taobao.com
+DOMAIN-SUFFIX,kit-device-log.oss-cn-beijing.aliyuncs.com
 DOMAIN,cddp-track.aligames.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
@@ -383,6 +384,8 @@ DOMAIN,ad.toutiao.com
 DOMAIN,dm.bytedance.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,dm-hl.toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 URL-REGEX,^https?:\/\/pangolin\.snssdk\.com\/api\/ad.+$
 DOMAIN-SUFFIX,upst86.com
 # (C)
@@ -421,6 +424,7 @@ URL-REGEX,https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement.
 URL-REGEX,^https?:\/\/ops\.htsec\.com:\d*\/api\/.*AdsPictures.*$
 # > 航旅纵横
 URL-REGEX,^https?:\/\/(img\.umetrip\.com|223\.70\.194\.3)\/fs\/advert\/.*$
+DOMAIN-SUFFIX,analytics.umetrip.com
 # (I)
 # > iQiyi
 DOMAIN-SUFFIX,iface.iqiyi.com
