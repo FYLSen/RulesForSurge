@@ -357,6 +357,7 @@ DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 # > Alibaba
 DOMAIN,amdc.m.taobao.com
+DOMAIN-SUFFIX,adashxgc.ut.taobao.com
 DOMAIN,cddp-track.aligames.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
@@ -470,7 +471,7 @@ DOMAIN,ws.ksmobile.net
 # > 快看漫画
 URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement).*$
 # > Keep
-URL-REGEX,^https?:\/\/api\.gotokeep\.com\/ads
+URL-REGEX,^https?:\/\/api\.gotokeep\.com\/ads.*$
 # (L)
 # > 
 # (M)
