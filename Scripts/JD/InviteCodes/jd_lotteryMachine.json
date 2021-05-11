@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-05-07",
+    "date": "2021-05-11",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -53,23 +53,6 @@
                 "T0225KkcRxga9AbWIhzykfJYcgCjVXnIaW5kRrbA",
                 "T018v_h7Qxwd8lPTJByb1ACjVXnIaW5kRrbA",
                 "T0225KkcRh8epwXVdhnylaZcJQCjVXnIaW5kRrbA"
-            ]
-        },
-        {
-            "appName": "新店福利",
-            "appId": "1EFRTyg",
-            "appId2": "",
-            "methon": "post",
-            "homeData": "healthyDay",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 6,
-            "shareTaskType": 14,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVUloaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVUloaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVUloaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVUloaW5kRrbA"
             ]
         },
         {
