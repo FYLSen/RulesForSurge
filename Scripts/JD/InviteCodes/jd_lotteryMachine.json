@@ -2,11 +2,12 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-05-11",
+    "date": "2021-05-18",
     "data": [
         {
             "appName": "闪购盲盒N",
             "appId": "1EFRXxg",
+            "validity": true,
             "appId2": "",
             "methon": "post",
             "homeData": "interact_template",
@@ -24,6 +25,7 @@
         {
             "appName": "闪购盲盒",
             "appId": "1EFRRxA",
+            "validity": true,
             "appId2": "",
             "methon": "post",
             "homeData": "interact_template",
@@ -41,6 +43,7 @@
         {
             "appName": "疯狂砸金蛋",
             "appId": "1EFRQwA",
+            "validity": true,
             "appId2": "",
             "methon": "post",
             "homeData": "interact_template",
@@ -58,6 +61,7 @@
         {
             "appName": "新店福利",
             "appId": "1EFRQw64",
+            "validity": false,
             "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
@@ -75,6 +79,7 @@
         {
             "appName": "one",
             "appId": "1EFRZwA",
+            "validity": true,
             "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
@@ -93,6 +98,7 @@
             "appName": "four",
             "appId": "1EFRZwQ",
             "appId2": "",
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -110,6 +116,7 @@
             "appName": "4月潮电焕新季",
             "appId": "1EFRYwA",
             "appId2": "",
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -127,6 +134,7 @@
             "appName": "新活动季",
             "appId": "1EFVRww",
             "appId2": "",
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -144,6 +152,7 @@
             "appName": "SeeYou",
             "appId": "1EFRYxA",
             "appId2": "",
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
