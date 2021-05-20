@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-05-18",
+    "date": "2021-05-21",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -134,7 +134,7 @@
             "appName": "新活动季",
             "appId": "1EFVRww",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
