@@ -197,7 +197,6 @@ DOMAIN-SUFFIX,umsns.com
 # > Appsflyer
 DOMAIN-SUFFIX,appsflyer.com
 # > Baidu
-DOMAIN-SUFFIX,bdstatic.com
 DOMAIN,hpd.baidu.com
 DOMAIN,hm.baidu.com
 DOMAIN,sp0.baidu.com
