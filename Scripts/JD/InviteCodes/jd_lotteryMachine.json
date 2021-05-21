@@ -132,9 +132,9 @@
         },
         {
             "appName": "新活动季",
-            "appId": "1EFVRww",
+            "appId": "1EFVRwA",
             "appId2": "",
-            "validity": false,
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -142,10 +142,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjRWn4aW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjRWn4aW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjRWn4aW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjRWn4aW5kRrbA"
+                "T0225KkcRxga9AbWIhzykfJYcgCjRWnIaW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjRWnIaW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjRWnIaW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjRWnIaW5kRrbA"
             ]
         },
         {
