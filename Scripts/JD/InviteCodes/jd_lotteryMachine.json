@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-05-21",
+    "date": "2021-05-25",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -152,7 +152,7 @@
             "appName": "SeeYou",
             "appId": "1EFRYxA",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
