@@ -150,9 +150,9 @@
         },
         {
             "appName": "SeeYou",
-            "appId": "1EFRYxA",
+            "appId": "1EFVRxw",
             "appId2": "",
-            "validity": false,
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -160,10 +160,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVfmIaW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjVfmIaW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjVfmIaW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVfmIaW5kRrbA"
+                "T0225KkcRxga9AbWIhzykfJYcgCjRWm4aW5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjRWm4aW5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjRWm4aW5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjRWm4aW5kRrbA"
             ]
         }
     ]
