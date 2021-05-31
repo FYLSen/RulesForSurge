@@ -134,7 +134,7 @@
             "appName": "新活动季",
             "appId": "1EFVRwA",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
