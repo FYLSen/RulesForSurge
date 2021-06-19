@@ -79,7 +79,7 @@
         {
             "appName": "one",
             "appId": "1EFRZwA",
-            "validity": true,
+            "validity": false,
             "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
@@ -98,7 +98,7 @@
             "appName": "four",
             "appId": "1EFRZwQ",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -152,7 +152,7 @@
             "appName": "SeeYou",
             "appId": "1EFVRxw",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -167,7 +167,7 @@
             ]
         },
         {
-            "appName": "王爷王爷",
+            "appName": "克慎打钱",
             "appId": "1EFVRxg",
             "appId2": "",
             "validity": true,
