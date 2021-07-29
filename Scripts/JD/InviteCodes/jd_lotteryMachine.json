@@ -61,7 +61,7 @@
         {
             "appName": "新店福利",
             "appId": "1EFRYxQ",
-            "validity": true,
+            "validity": false,
             "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
