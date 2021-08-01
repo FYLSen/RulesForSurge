@@ -116,7 +116,7 @@
             "appName": "4月潮电焕新季",
             "appId": "1EFVQwQ",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
