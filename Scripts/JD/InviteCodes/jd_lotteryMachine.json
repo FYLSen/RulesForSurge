@@ -60,8 +60,8 @@
         },
         {
             "appName": "新店福利",
-            "appId": "1EFRYxQ",
-            "validity": false,
+            "appId": "1E1NYw6w",
+            "validity": true,
             "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
@@ -70,10 +70,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjVXn627yx55awQ",
-                "T0184qQtHEdH9FHRJBn3kQCjVXn627yx55awQ",
-                "T018v_h7Qxwd8lPTJByb1ACjVXn627yx55awQ",
-                "T0225KkcRh8epwXVdhnylaZcJQCjVXn627yx55awQ"
+                "T0225KkcRxga9AbWIhzykfJYcgCTJfn6-7zDQjeQOc",
+                "T0184qQtHEdH9FHRJBn3kQCTJfn6-7zDQjeQOc",
+                "T018v_h7Qxwd8lPTJByb1ACTJfn6-7zDQjeQOc",
+                "T0225KkcRh8epwXVdhnylaZcJQCTJfn6-7zDQjeQOc"
             ]
         },
         {
