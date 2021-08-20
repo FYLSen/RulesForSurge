@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-08-20",
+    "date": "2021-08-21",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -116,7 +116,7 @@
             "appName": "荣耀焕新季",
             "appId": "1E1NYwqc",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -152,7 +152,7 @@
             "appName": "车🛻",
             "appId": "1E1xRy6c",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
