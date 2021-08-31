@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-08-26",
+    "date": "2021-09-01",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -98,7 +98,7 @@
             "appName": "开学换新加油站",
             "appId": "1E1xVyqw",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
