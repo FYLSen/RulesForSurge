@@ -19,6 +19,8 @@ https://rules.allgreat.xyz/Module/Daily.sgmodule
 
 https://rules.allgreat.xyz/Module/AdblockByMock.sgmodule
 
+https://rules.allgreat.xyz/Module/Tool.sgmodule
+
 ```
 
 ## 感谢（排名不分先后）
