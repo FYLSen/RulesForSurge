@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-09-27",
+    "date": "2021-09-30",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -178,10 +178,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjRWm4aW5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjRWm4aW5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjRWm4aW5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjRWm4aW5kRrbA"
+                "T0225KkcRxga9AbWIhzykfJYcgCTJQmq67yR55awQ",
+                "T0184qQtHEdH9FHRJBn3kQCTJQmq67yR55awQ",
+                "T018v_h7Qxwd8lPTJByb1ACTJQmq67yR55awQ",
+                "T0225KkcRh8epwXVdhnylaZcJQCTJQmq67yR55awQ"
             ]
         }
     ]
