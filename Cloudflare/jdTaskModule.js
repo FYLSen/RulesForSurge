@@ -3,7 +3,7 @@
 部署在Cloudflare Workers中
 */
 
-const path = "https://raw.githubusercontent.com/Rhysn/jd-scripts-docker/master/crontab.list"
+const path = "https://raw.githubusercontent.com/Rhysn/Run_JDScripts_Docker/main/crontab.sh"
 async function gatherResponse(response) {
     const { headers } = response
     const contentType = headers.get("content-type") || ""
