@@ -152,7 +152,7 @@
             "appName": "车🛻",
             "appId": "1ElBTx6o",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
