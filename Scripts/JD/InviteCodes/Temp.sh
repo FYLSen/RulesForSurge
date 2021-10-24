@@ -1,5 +1,5 @@
 #5G魔盒
-jd_5g=addf1e71-48f8-4a13-a8e6-80244b73cbdb@3e03835d-2c25-4bfa-bbed-540771dad865@086501d6-288c-493d-b3b4-dd3e0b495723@8c2d4bca-bee0-46cf-83e9-f834652db50d@ea09c2bf-16a0-441e-9db0-050713718c14
+jd_5g=
 
 #手机狂欢城
 JD818_SHARECODES=
