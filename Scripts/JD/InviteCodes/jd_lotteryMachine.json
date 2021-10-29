@@ -131,10 +131,10 @@
             ]
         },
         {
-            "appName": "新活动季",
-            "appId": "1EFVRxg",
+            "appName": "超能力",
+            "appId": "1FFRWxaY",
             "appId2": "",
-            "validity": false,
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -142,10 +142,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjRXnYaU5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjRXnYaU5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjRXnYaU5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjRXnYaU5kRrbA"
+                "T0225KkcRxga9AbWIhzykfJYcgDjVRmaW7xR55awQ",
+                "T0184qQtHEdH9FHRJBn3kQDjVRmaW7xR55awQ",
+                "T018v_h7Qxwd8lPTJByb1ADjVRmaW7xR55awQ",
+                "T0225KkcRh8epwXVdhnylaZcJQDjVRmaW7xR55awQ"
             ]
         },
         {
