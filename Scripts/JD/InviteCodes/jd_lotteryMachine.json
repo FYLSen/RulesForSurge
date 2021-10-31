@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-10-21",
+    "date": "2021-11-01",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -95,10 +95,10 @@
             ]
         },
         {
-            "appName": "开学换新加油站",
-            "appId": "1E1xVyqw",
+            "appName": "1111点心动",
+            "appId": "1FFVQyqw",
             "appId2": "",
-            "validity": false,
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -106,17 +106,17 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCT1Slq-7yx55awQ",
-                "T0184qQtHEdH9FHRJBn3kQCT1Slq-7yx55awQ",
-                "T018v_h7Qxwd8lPTJByb1ACT1Slq-7yx55awQ",
-                "T0225KkcRh8epwXVdhnylaZcJQCT1Slq-7yx55awQ"
+                "T0225KkcRxga9AbWIhzykfJYcgDjRXlq-7zx55awQ",
+                "T0184qQtHEdH9FHRJBn3kQDjRXlq-7zx55awQ",
+                "T018v_h7Qxwd8lPTJByb1ADjRXlq-7zx55awQ",
+                "T0225KkcRh8epwXVdhnylaZcJQDjRXlq-7zx55awQ"
             ]
         },
         {
-            "appName": "荣耀焕新季",
-            "appId": "1ElJYxqY",
+            "appName": "好物好生活",
+            "appId": "1FV1ZwKY",
             "appId2": "",
-            "validity": false,
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -124,10 +124,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCDNfmqW7zB55awQ",
-                "T0184qQtHEdH9FHRJBn3kQCDNfmqW7zB55awQ",
-                "T018v_h7Qxwd8lPTJByb1ACDNfmqW7zB55awQ",
-                "T0225KkcRh8epwXVdhnylaZcJQCDNfmqW7zB55awQ"
+                "T0225KkcRxga9AbWIhzykfJYcgDzxenKW7yx55awQ",
+                "T0184qQtHEdH9FHRJBn3kQDzxenKW7yx55awQ",
+                "T018v_h7Qxwd8lPTJByb1ADzxenKW7yx55awQ",
+                "T0225KkcRh8epwXVdhnylaZcJQDzxenKW7yx55awQ"
             ]
         },
         {
