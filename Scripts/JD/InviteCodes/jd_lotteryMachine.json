@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-11-01",
+    "date": "2021-11-02",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -59,9 +59,9 @@
             ]
         },
         {
-            "appName": "新店福利",
-            "appId": "1E1NYw6w",
-            "validity": false,
+            "appName": "心动电波",
+            "appId": "1FFRWwqg",
+            "validity": true,
             "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
@@ -70,10 +70,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCTJfn6-7zDQjeQOc",
-                "T0184qQtHEdH9FHRJBn3kQCTJfn6-7zDQjeQOc",
-                "T018v_h7Qxwd8lPTJByb1ACTJfn6-7zDQjeQOc",
-                "T0225KkcRh8epwXVdhnylaZcJQCTJfn6-7zDQjeQOc"
+                "T0225KkcRxga9AbWIhzykfJYcgDjVRnqu7xB55awQ",
+                "T0184qQtHEdH9FHRJBn3kQDjVRnqu7xB55awQ",
+                "T018v_h7Qxwd8lPTJByb1ADjVRnqu7xB55awQ",
+                "T0225KkcRh8epwXVdhnylaZcJQDjVRnqu7xB55awQ"
             ]
         },
         {
