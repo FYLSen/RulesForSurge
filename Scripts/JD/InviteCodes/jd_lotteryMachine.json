@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-11-13",
+    "date": "2021-11-15",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -152,7 +152,7 @@
             "appName": "车11",
             "appId": "1FV1VwKc",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
