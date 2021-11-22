@@ -79,7 +79,7 @@
         {
             "appName": "焕新带电生活",
             "appId": "1FFdSxqw",
-            "validity": true,
+            "validity": false,
             "appId2": "",
             "methon": "post",
             "homeData": "healthyDay",
