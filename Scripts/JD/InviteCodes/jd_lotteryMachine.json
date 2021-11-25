@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-11-16",
+    "date": "2021-11-25",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -134,7 +134,7 @@
             "appName": "超能力",
             "appId": "1FFRWxaY",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
