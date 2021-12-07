@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-11-29",
+    "date": "2021-12-07",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -150,20 +150,20 @@
         },
         {
             "appName": "车11",
-            "appId": "1FV1VwKc",
+            "appId": "1EFVXxg",
             "appId2": "",
-            "validity": false,
+            "validity": true,
             "methon": "post",
-            "homeData": "healthyDay",
+            "homeData": "splitHongbao",
             "collectScore": "harmony",
             "lotteryResult": "interact_template",
             "timeout": 6,
-            "shareTaskType": 14,
+            "shareTaskType": 6,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgDzxSnKS7zB55awQ",
-                "T0184qQtHEdH9FHRJBn3kQDzxSnKS7zB55awQ",
-                "T018v_h7Qxwd8lPTJByb1ADzxSnKS7zB55awQ",
-                "T0225KkcRh8epwXVdhnylaZcJQDzxSnKS7zB55awQ"
+                "T0225KkcRxga9AbWIhzykfJYcgCjRQmoaX5kRrbA",
+                "T0184qQtHEdH9FHRJBn3kQCjRQmoaX5kRrbA",
+                "T018v_h7Qxwd8lPTJByb1ACjRQmoaX5kRrbA",
+                "T0225KkcRh8epwXVdhnylaZcJQCjRQmoaX5kRrbA"
             ]
         },
         {
