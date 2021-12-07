@@ -149,24 +149,6 @@
             ]
         },
         {
-            "appName": "车11",
-            "appId": "1EFVXxg",
-            "appId2": "",
-            "validity": true,
-            "methon": "post",
-            "homeData": "splitHongbao",
-            "collectScore": "harmony",
-            "lotteryResult": "interact_template",
-            "timeout": 6,
-            "shareTaskType": 6,
-            "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCjRQmoaX5kRrbA",
-                "T0184qQtHEdH9FHRJBn3kQCjRQmoaX5kRrbA",
-                "T018v_h7Qxwd8lPTJByb1ACjRQmoaX5kRrbA",
-                "T0225KkcRh8epwXVdhnylaZcJQCjRQmoaX5kRrbA"
-            ]
-        },
-        {
             "appName": "克慎打钱",
             "appId": "1E1NXxq0",
             "appId2": "",
