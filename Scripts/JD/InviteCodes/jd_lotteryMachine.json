@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2021-12-07",
+    "date": "2022-01-02",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -152,7 +152,7 @@
             "appName": "克慎打钱",
             "appId": "1E1NXxq0",
             "appId2": "",
-            "validity": true,
+            "validity": false,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
