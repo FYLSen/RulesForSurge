@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "Read Code Success",
     "author": "Rhysn",
-    "date": "2022-01-06",
+    "date": "2022-01-13",
     "data": [
         {
             "appName": "闪购盲盒N",
@@ -150,9 +150,9 @@
         },
         {
             "appName": "克慎打钱",
-            "appId": "1E1NXxq0",
+            "appId": "1GFRRyqo",
             "appId2": "",
-            "validity": false,
+            "validity": true,
             "methon": "post",
             "homeData": "healthyDay",
             "collectScore": "harmony",
@@ -160,10 +160,10 @@
             "timeout": 6,
             "shareTaskType": 14,
             "sharecodes": [
-                "T0225KkcRxga9AbWIhzykfJYcgCTJQmq67yR55awQ",
-                "T0184qQtHEdH9FHRJBn3kQCTJQmq67yR55awQ",
-                "T018v_h7Qxwd8lPTJByb1ACTJQmq67yR55awQ",
-                "T0225KkcRh8epwXVdhnylaZcJQCTJQmq67yR55awQ"
+                "T0225KkcRxga9AbWIhzykfJYcgAjVWlqm7zB55awQ",
+                "T0184qQtHEdH9FHRJBn3kQAjVWlqm7zB55awQ",
+                "T018v_h7Qxwd8lPTJByb1AAjVWlqm7zB55awQ",
+                "T0225KkcRh8epwXVdhnylaZcJQAjVWlqm7zB55awQ"
             ]
         }
     ]
