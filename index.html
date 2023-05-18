@@ -1,123 +1,184 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-    <meta name="renderer" content="webkit">
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta http-equiv="Cache-Control" content="no-transform" />
-    <meta http-equiv="Cache-Control" content="no-siteapp" />
-    <link rel="shortcut icon" href="https://ultranti.com/img/favicon16.ico">
-    <title>See You - All Great</title>
-    <style>
-        body {
+      <!DOCTYPE html>
+      <html lang="zh-CN">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="renderer" content="webkit">
+        <meta http-equiv="Cache-Control" content="no-transform">
+        <meta http-equiv="Cache-Control" content="no-siteapp">
+        <title>All Great</title>
+        <link rel="shortcut icon" href="#">
+        <style>
+          :root {
+            --main-color: #f35626;
+            --main-gradient: linear-gradient(92deg, var(--main-color), #feab3a);
+            --text-color: #6E7173;
+            --title-color: #7b8993;
+            --bg-color: #fff;
+            --border-color: #7b8993;
+          }
+          body {
             margin: 0;
             padding: 0;
-            font-family: PingFang SC, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
-        }
-
-        a,
-        button.submit {
-            color: #6E7173;
+            font-family: "PingFang SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif
+          }
+          [data-theme=dark] {
+            --main-color: #f37242;
+            --main-gradient: linear-gradient(92deg, var(--main-color), #feab3a);
+            --text-color: #c5c5c5;
+            --title-color: #c5c5c5;
+            --bg-color: #242424;
+            --border-color: #c5c5c5;
+          }
+          a,
+          button.submit {
+            color: var(--text-color);
             text-decoration: none;
-            -webkit-transition: all .1s ease-in;
-            -moz-transition: all .1s ease-in;
-            -o-transition: all .1s ease-in;
             transition: all .1s ease-in;
-        }
-
-        a:hover,
-        a:active {
-            color: #6E7173;
-        }
-
-        .indexbody {
-            position: absolute;
-            height: 100%;
-            width: 100%;
-            background: #2b2929;
+          }
+          a:hover,
+          a:active {
+            color: var(--text-color);
+          }
+          .main {
+            height: 100vh;
+            background-color: var(--bg-color);
             background-size: auto 100%;
-        }
-
-        .site-name {
+          }
+          .main-about {
+            background-color: var(--bg-color)
+          }
+          .site-name {
             margin: 0 auto;
             text-align: center;
-            letter-spacing: 2px;
-            font-size: 150px;
+            font-size: 4rem;
             line-height: 1;
             font-weight: 100;
-            color: #f35626;
-            background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+            color: var(--main-color);
+            background-image: var(--main-gradient);
+            background-clip: text;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            -webkit-animation: hue 60s infinite linear;
-        }
-
-        .indextitle p {
-            font-size: 20px;
+            animation: hue 60s infinite linear
+          }
+          .site-name h1 {
+            margin: 0 0 10px;
+            font-size: 2rem;
+            line-height: 1.2
+          }
+          .title {
+            font-size: 1.25rem;
             line-height: 1.5;
             margin: 0;
-            color: #7b8993;
-        }
-
-        .indexinfo {
+            color: var(--title-color)
+          }
+          .title span {
+            display: inline-block;
+            width: 2px;
+            font-size: 1.5rem;
+            margin: 0 .5rem
+          }
+          .info {
             position: absolute;
             top: 50%;
+            left: 0;
+            right: 0;
             text-align: center;
-            width: 100%;
-            margin-top: -160px;
-        }
-
-        .index {
-            margin-top: 24px;
+            transform: translateY(-50%)
+          }
+          .info-about {
+            margin-top: -180px
+          }
+          #footer {
+            margin-top: 30px;
+            font-size: 10px
+          }
+          .index {
             display: inline-block;
             white-space: nowrap;
             cursor: pointer;
             letter-spacing: 1px;
-            font-size: 14px;
-            -moz-user-select: -moz-none;
-            -webkit-user-select: none;
-            -ms-user-select: none;
-            -o-user-select: none;
+            font-size: .875rem;
             user-select: none;
             text-shadow: none;
-            border: 2px solid #fff;
+            border: 2px solid var(--border-color);
             line-height: 36px;
             text-align: center;
             height: 36px;
             padding: 0 25px;
             border-radius: 25px;
-            background-color: #fff;
-            color: #7b8993;
-        }
-
-        @-webkit-keyframes hue {
+            background-color: var(--bg-color);
+            color: var(--title-color)
+          }
+          .icon-about {
+            padding: 10px 0 25px
+          }
+          .icon-about a {
+            display: inline-block;
+            font-size: 1.25rem;
+            margin: .25rem;
+            color: var(--bg-color);
+            background-color: var(--text-color);
+            border-radius: 100%;
+            padding: .375rem
+          }
+          @keyframes hue {
             from {
-                -webkit-filter: hue-rotate(0deg);
+              filter: hue-rotate(0deg)
             }
-
             to {
-                -webkit-filter: hue-rotate(-360deg);
+              filter: hue-rotate(-360deg)
             }
-        }
-    </style>
-</head>
-
-<body>
-    <div class="indexbody">
-        <div class="indexinfo">
-            <header id="indexheader" class="clearfix">
-                <div class="site-name">ALL GREAT</div>
+          }
+          @media (max-width: 767px) {
+            .site-name {
+              font-size: 3rem
+            }
+            .site-name h1 {
+              font-size: 1rem
+            }
+            .title {
+              font-size: 1rem
+            }
+            .title span {
+              font-size: 1rem
+            }
+            .index {
+              font-size: .75rem;
+              line-height: 28px;
+              height: 28px;
+              padding: 0 15px;
+              border-radius: 14px
+            }
+            .icon-about a {
+              font-size: 1rem;
+              margin: .125rem;
+              padding: .25rem
+            }
+          }
+        </style>
+        <script>
+          function detectDarkTheme() {
+            window.matchMedia("(prefers-color-scheme: dark)").matches ? document.documentElement.setAttribute("data-theme", "dark") : document.documentElement.setAttribute("data-theme", "light")
+          }
+          detectDarkTheme();
+          
+        </script>
+      </head>
+      <body>
+        <div class="main">
+          <div class="info">
+            <header class="clearfix">
+              <div class="site-name">ALL GREAT        </div>
             </header>
             <section>
-                <div class="indextitle">
-                    <p>外面的世界还很大，我并无道理置身事外～</p>
-                </div><a href="https://ultranti.com/" class="index"> Bye - Bye </a>
+              <div class="title">
+                <p>天宽地阔，岁久时长，一隅之安，岂能彼之所欲？</p>
+              </div>
+              <a href="https://something.fylsen.com" class="index"> Bye - Bye </a>
             </section>
+          </div>
         </div>
-    </div>
-</body>
-
-</html>
+      </body>
+      </html>

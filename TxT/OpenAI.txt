@@ -1,0 +1,8 @@
+# ChatGPT
+challenges.cloudflare.com
+.openai.com
+.openaiapi-site.azureedge.net
+.identrust.com
+.auth0.com
+.ai.com
+openai.fylsen.com
